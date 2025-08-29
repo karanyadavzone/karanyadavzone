@@ -18,9 +18,9 @@ My Portfolio:- https://karanyadav.in</br>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- 🌱 I’m currently learning React native And AWS 
-- 📫 How to reach me: hunny10yadav10@gmail.com
+- 🌱 Exploring AI.
+- 🌱 I’m currently learning React native And Node.js 
+- 📫 How to reach me: yadavkaran1006@gmail.com
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-yadav-5a8269180/)
 
 ---
